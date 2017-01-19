@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3411700001
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7799b2636d965bf8fc58ced3dce63efe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/TestCustomPushDependencies/3.jpg
+- Assets/Resources/Prefabs/TestCustomBuildAndSetBundleNameToEachAsset/3.jpg
+Dependencies: []

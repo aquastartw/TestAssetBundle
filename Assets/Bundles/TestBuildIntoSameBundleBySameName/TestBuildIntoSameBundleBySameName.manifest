@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 572853725
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: testsamebundle-manual
+      Dependencies: {}

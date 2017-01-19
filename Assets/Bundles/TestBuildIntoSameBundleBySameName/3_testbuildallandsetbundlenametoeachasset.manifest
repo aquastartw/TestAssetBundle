@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1683092279
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9764493bf1dec7711cf6a526df1c1e42
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/TestBuildAllAndSetBundleNameToEachAsset/3.jpg
+Dependencies: []

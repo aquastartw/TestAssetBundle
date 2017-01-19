@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 1095376108
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1fed54fe1f117805cdeb9f0b8176a4e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a797130adb5a0fcb9466213dc10220a6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: d5c5ca47aa5c01740810b7c66662099f, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/TestBuildAllAndSetBundleNameToEachAsset/B.prefab
+Dependencies:
+- Assets/Bundles/TestBuildIntoSameBundleBySameName/1_testbuildallandsetbundlenametoeachasset
+- Assets/Bundles/TestBuildIntoSameBundleBySameName/2_testbuildallandsetbundlenametoeachasset
+- Assets/Bundles/TestBuildIntoSameBundleBySameName/3_testbuildallandsetbundlenametoeachasset
+- Assets/Bundles/TestBuildIntoSameBundleBySameName/4_testbuildallandsetbundlenametoeachasset

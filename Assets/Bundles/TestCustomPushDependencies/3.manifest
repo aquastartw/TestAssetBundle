@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 170053910
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f7ddc1ec72104bca4d1f1fbc95132af5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Prefabs/TestCustomPushDependencies/3.jpg
+Dependencies: []
